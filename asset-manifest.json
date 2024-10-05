@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.24d160c4.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.67a8c584.js",
+    "static/js/453.b3e16baf.chunk.js": "/ws101_react_landingpage/static/js/453.b3e16baf.chunk.js",
+    "static/media/Compuer_purple_bg-ezgif.com-crop (1).gif": "/ws101_react_landingpage/static/media/Compuer_purple_bg-ezgif.com-crop (1).bb3c480481445d3e72db.gif",
+    "static/media/JVCLogo1-ezgif.com-gif-maker.png": "/ws101_react_landingpage/static/media/JVCLogo1-ezgif.com-gif-maker.35ad7c9abc8ee49accbe.png",
+    "static/media/twitter_logo.avif": "/ws101_react_landingpage/static/media/twitter_logo.48adb292fe1a8685574f.avif",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.24d160c4.css.map": "/ws101_react_landingpage/static/css/main.24d160c4.css.map",
+    "main.67a8c584.js.map": "/ws101_react_landingpage/static/js/main.67a8c584.js.map",
+    "453.b3e16baf.chunk.js.map": "/ws101_react_landingpage/static/js/453.b3e16baf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d160c4.css",
+    "static/js/main.67a8c584.js"
+  ]
+}
